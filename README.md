@@ -27,11 +27,11 @@
 
 <h1>About Me</h1>
 
- - 🎓 Bachelor Degree in Computer Engineering - <a href= "https://www.unisanta.br/"> Santa Cecília University </a>
+ - 🎓: Bachelor Degree in Computer Engineering - <a href= "https://www.unisanta.br/"> Santa Cecília University </a>
 - 🏫: MBA in Information Technology Management - <a href= "https://www.fiap.com.br/"> FIAP </a>
 - 💻: Junior Software Developer & Data Analytics -  <a href="https://www.scania.com/">Scania Group</a> 
 - 🌱: I’m currently studying Data Science and .Net programming.
-- 💬   Pronouns: He/His
+- 💬: Pronouns: He/His
 <hr>
 
 <h1>Some of my Projects! 🎨</h1>
