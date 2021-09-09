@@ -22,8 +22,8 @@
   <a href="https://www.linkedin.com/in/flaviolandim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-   
-##
+ 
+ ##
 
 <h1>About Me</h1>
 
@@ -33,7 +33,6 @@
 - 🌱: I’m currently studying Data Science and .Net programming.
 - 💬   Pronouns: He/His
 <hr>
-<Br>
 
 <h1>Some of my Projects! 🎨</h1>
 <Br>
