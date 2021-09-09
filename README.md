@@ -1,8 +1,5 @@
-<h1 align="center">Hi, I'm Flávio Landim<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
-<Br>
-
-##
-  
+ ## Hi, I'm Flávio Landim
+ 
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=flaviolandim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
