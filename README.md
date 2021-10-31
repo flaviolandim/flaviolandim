@@ -29,7 +29,7 @@
 
  - 🎓: Bachelor Degree in Computer Engineering - <a href= "https://www.unisanta.br/"> Santa Cecília University </a>
 - 🏫: MBA in Information Technology Management - <a href= "https://www.fiap.com.br/"> FIAP </a>
-- 💻: Junior Software Developer & Data Analytics -  <a href="https://www.scania.com/">Scania Group</a> 
+- 💻: Data Intelligence Analyst -  <a href="https://www.programmers.com.br/">Programmer's - Beyond IT</a> 
 - 🌱: I’m currently studying Data Science and .Net programming.
 - 💬: Pronouns: He/His
 <hr>
