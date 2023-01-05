@@ -29,8 +29,8 @@
 
  - 🎓: Bachelor Degree in Computer Engineering - <a href= "https://www.unisanta.br/"> Santa Cecília University </a>
 - 🏫: MBA in Information Technology Management - <a href= "https://www.fiap.com.br/"> FIAP </a>
-- 💻: Data Intelligence Analyst -  <a href="https://www.safra.com.br/">Banco Safra</a> 
-- 🌱: I’m currently studying Data Science.
+- 💻: Data Engineer -  <a href="https://www.safra.com.br/">Banco Safra</a> 
+- 🌱: My new hobby is to learn and print 3D models.
 - 💬: Pronouns: He/His
 <hr>
 
